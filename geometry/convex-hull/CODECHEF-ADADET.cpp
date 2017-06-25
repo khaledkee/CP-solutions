@@ -23,9 +23,6 @@ using namespace std;
  */
 const long long mod = 1000000007;
 
-long long INF = 1e100;
-long long EPS = 1e-12;
-
 struct PT {
   long long x, y;
   PT() {}
